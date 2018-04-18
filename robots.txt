@@ -7,4 +7,4 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Sitemap: https:guangwen.me/sitemap.xml
+Sitemap: https://guangwen.me/sitemap.xml
